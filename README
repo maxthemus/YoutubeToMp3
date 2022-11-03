@@ -1,0 +1,17 @@
+Saddly ONLY supported on Linux with BASH shell. Windows COMING SOON!
+
+This is a Youtube to Mp3 Downloader made with java and python.
+How it works? There are three components to the download and converter.
+1- Read text file with names of songs and artists
+2- Scrape youtube to find URL of song
+3- Download youtube video to Mp4
+4- Convert Mp4 to Mp3
+
+How to use GUI:
+Type name of song and artist into text field in bottom click add to add the song to the list.
+Press the X next to the song to remove the song from the list. at the top there is a clear button which removes all songs from the list.
+The download button will proceed to download all the songs on the list. When the download is done the list will clear and on the console "DOWNLAOD FINSHED WILL BE PRINTED".
+
+If the file already exists the download will just overwrite the file.
+
+
